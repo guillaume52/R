@@ -1,9 +1,7 @@
-#PBX
-Token="xoxp-26461059348-144877054676-220966048544-b4041bf09760576c8ec9fc218c99db30"
-webhook="https://hooks.slack.com/services/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"
+
 #Crap
-Token="xoxp-223958811877-225027056727-224797867059-71d520716277fda4453b50f1068725e0"
-webhook="https://hooks.slack.com/services/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"
+Token=
+webhook=
 
 
     
@@ -21,12 +19,12 @@ POST(url="https://slack.com/api/chat.postMessage",
                {    "fallback": "Required plain-text summary of the attachment.",
                "color": "#36a64f",
                "title": "169 - Extra Stems Image",
-               "title_link": "http://confluence.photobox.com/display/WM/169+-+Extra+Stems+Image",
+               "title_link": "",
                
                "fields": [
                {
-               "title": "Analysis of 169 - Extra Stems Image",
-               "value": "Available in Confluence"
+               "title": "Image",
+               "value": "Available"
                }
                ],
                
